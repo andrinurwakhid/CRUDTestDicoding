@@ -1,0 +1,58 @@
+﻿@model CRUDTest.Models.Employee
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Employee</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @id = "EtxtId",@hidden = "true"} })
+        
+        <div class="col-md-12">
+            <input type="hidden" id="hdnEId" value="0" />  
+            <div class="col-md-12">
+                <div class="col-md-12">
+                    <label>First Name :</label>
+                    @Html.EditorFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", @id = "EtxtFName" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Last Name :</label>
+                    @Html.EditorFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", @id = "EtxtLName" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Phone :</label>
+                    @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control", @id = "EtxtPhone" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Address :</label>
+                    @Html.EditorFor(model => model.Address, new { htmlAttributes = new { @class = "form-control", @id = "EtxtAddress" } })
+                </div>
+                <div class="col-md-12">
+                    <br />
+                    <input id="btnUpdate" class="btn btn-success" type="button" value="Update" />
+                    <input id="UbtnCancel" class="btn btn-danger" type="button" value="Cancel" />
+                </div>
+                <br />
+                <div class="col-md-12">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        </div>  
+    </div>
+}
+
+<script src="~/Scripts/jquery-2.2.4.min.js"></script>
+<script src="~/Scripts/MyScript.js"></script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

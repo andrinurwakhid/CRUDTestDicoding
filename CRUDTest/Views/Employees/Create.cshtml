@@ -1,0 +1,50 @@
+﻿@model CRUDTest.Models.Employee
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Employee</h4>
+        <hr />
+        <div class="col-md-12">
+            <input type="hidden" id="hdnEId" value="0" />  
+            <div class="col-md-12">
+                <div class="col-md-12">
+                    <label>First Name :</label>
+                    <input class="form-control" type="text" id="txtFName" required="required" />
+                </div>
+                <div class="col-md-12">
+                    <label>Last Name :</label>
+                    <input class="form-control required" id="txtLName" type="text" required />
+                </div>
+                <div class="col-md-12">
+                    <label>Phone :</label>
+                    <input class="form-control required" id="txtPhone" type="text" required />
+                </div>
+                <div class="col-md-12">
+                    <label>Address :</label>
+                    <input class="form-control required" id="txtAddress" type="text" required />
+                </div>
+                <div class="col-md-12">
+                    <br />
+                    <input id="btnSave" class="btn btn-success" type="button" value="Save" />
+                    <input id="btnCancel" class="btn btn-danger" type="button" value="Cancel" />
+                </div>
+                <br />
+                <div class="col-md-12">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        </div>  
+    </div>
+}
+<script src="~/Scripts/jquery-2.2.4.min.js"></script>
+<script src="~/Scripts/MyScript.js"></script>

@@ -1,0 +1,210 @@
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\csc.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\System.Collections.Immutable.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\vbc.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe.config
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\CRUDTest.dll.config
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\CRUDTest.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\CRUDTest.pdb
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Antlr3.Runtime.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\EntityFramework.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Web.Infrastructure.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Newtonsoft.Json.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Owin.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Helpers.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Mvc.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Optimization.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Razor.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\WebGrease.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Helpers.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Mvc.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Optimization.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.Razor.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Antlr3.Runtime.pdb
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Newtonsoft.Json.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\EntityFramework.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csprojResolveAssemblyReference.cache
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\obj\Debug\CRUDTest.dll
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\obj\Debug\CRUDTest.pdb
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\obj\Debug\CRUDTest.Migrations.newdb.resources
+D:\PT Mitra Integrasi Informatika\Bootcamp\Materi\New folder\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csproj.GenerateResource.Cache
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\csc.exe
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\System.Collections.Immutable.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\vbc.exe
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe.config
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\CRUDTest.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\CRUDTest.pdb
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Antlr3.Runtime.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Web.Infrastructure.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Newtonsoft.Json.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Owin.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Helpers.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Mvc.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Optimization.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Razor.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\WebGrease.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Helpers.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Mvc.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Optimization.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Razor.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Antlr3.Runtime.pdb
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Newtonsoft.Json.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csprojResolveAssemblyReference.cache
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.Migrations.newdb.resources
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csproj.GenerateResource.Cache
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.dll
+D:\1_ KERJA\2_ PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.pdb
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\csc.exe
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\System.Collections.Immutable.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\vbc.exe
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\roslyn\VBCSCompiler.exe.config
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\CRUDTest.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\CRUDTest.pdb
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Antlr3.Runtime.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Web.Infrastructure.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Newtonsoft.Json.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Owin.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Helpers.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Mvc.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Optimization.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Razor.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\WebGrease.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Helpers.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Mvc.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Optimization.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.Razor.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Deployment.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\System.Web.WebPages.Razor.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Antlr3.Runtime.pdb
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Newtonsoft.Json.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\EntityFramework.SqlServer.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Core.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Facebook.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Cookies.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.OAuth.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Google.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.Twitter.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.Migrations.newdb.resources
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.csproj.GenerateResource.Cache
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.dll
+D:\1. KERJA\2. PT. Mitra Integrasi Informatika\1_ BOOTCAMP\1_ MATERI\20 CRUD TEST v2\CRUDTest\CRUDTest\obj\Debug\CRUDTest.pdb

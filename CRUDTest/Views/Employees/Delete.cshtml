@@ -1,0 +1,49 @@
+﻿@model CRUDTest.Models.Employee
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.EditorFor(model => model.Id, new { htmlAttributes = new { @id = "DtxtId", @hidden = "true" } })
+
+        <div class="col-md-12">
+            <input type="hidden" id="hdnEId" value="0" />
+            <div class="col-md-12">
+                <div class="col-md-12">
+                    <label>First Name :</label>
+                    @Html.DisplayFor(model => model.FirstName, new { htmlAttributes = new { @class = "form-control", @id = "DtxtFName" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Last Name :</label>
+                    @Html.DisplayFor(model => model.LastName, new { htmlAttributes = new { @class = "form-control", @id = "DtxtLName" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Phone :</label>
+                    @Html.DisplayFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control", @id = "DtxtPhone" } })
+                </div>
+                <div class="col-md-12">
+                    <label>Address :</label>
+                    @Html.DisplayFor(model => model.Address, new { htmlAttributes = new { @class = "form-control", @id = "DtxtAddress" } })
+                </div>
+                <div class="col-md-12">
+                    <br />
+                    <input id="btnDelete" class="btn btn-success" type="button" value="Delete" />
+                    <input id="DbtnCancel" class="btn btn-danger" type="button" value="Cancel" />
+                </div>
+                <br />
+                <div class="col-md-12">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery-2.2.4.min.js"></script>
+    <script src="~/Scripts/MyScript.js"></script>
+</div>
